@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_operaciones", "ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_burguer", "ejercicio_burguer\ejercicio_burguer.csproj", "{3A238AB3-8C3A-43D0-BD70-E97BDEE54766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifchar", "ifchar\ifchar.csproj", "{D5CAF198-5B15-4939-A6AE-C6BB4ED69C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forma de pago", "forma de pago\forma de pago.csproj", "{1B7FF144-2C28-4DFE-99C6-37D87AE20D63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{3A238AB3-8C3A-43D0-BD70-E97BDEE54766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A238AB3-8C3A-43D0-BD70-E97BDEE54766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A238AB3-8C3A-43D0-BD70-E97BDEE54766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CAF198-5B15-4939-A6AE-C6BB4ED69C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CAF198-5B15-4939-A6AE-C6BB4ED69C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CAF198-5B15-4939-A6AE-C6BB4ED69C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CAF198-5B15-4939-A6AE-C6BB4ED69C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B7FF144-2C28-4DFE-99C6-37D87AE20D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7FF144-2C28-4DFE-99C6-37D87AE20D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7FF144-2C28-4DFE-99C6-37D87AE20D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7FF144-2C28-4DFE-99C6-37D87AE20D63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
