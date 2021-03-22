@@ -12,11 +12,14 @@ namespace forma_de_pago
         {
 
             // Depera pedir el precio del producto
+
             Console.WriteLine (" Escriba el precio del producto ");
             double precio = Convert.ToDouble(Console.ReadLine());
+
             // Debera pedir la forma de pago (tarjeta o efectivo)
             Console.WriteLine(" Escriba la forma de pago: tarjeta o efectivo ");
             String formaPago = (Console.ReadLine()).ToLower();
+
             // Si es Tarjeta debera pedir el numero de tarjeta
             if (formaPago.Equals(" tarjeta "))
             {
